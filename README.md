@@ -1,6 +1,6 @@
 # Scanmap
 
-Scanmap is a lightweight Bash wrapper around Nmap designed to speed up reconnaissance during CTFs, labs, and security assessments.
+Scanmap is a lightweight bash wrapper around Nmap designed to speed up reconnaissance during CTFs, labs, and security assessments.
 
 The tool performs a fast port scan, extracts open ports, launches targeted service enumeration, and displays results with colorized output for improved readability. Its goal is to simplify the typical multi-step Nmap workflow into a single command.
 
@@ -17,7 +17,6 @@ The tool performs a fast port scan, extracts open ports, launches targeted servi
 ## Requirements
 
 - Nmap
-- Bash
 - Linux-based environment (recommended)
 
 ## Usage
