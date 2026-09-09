@@ -28,7 +28,7 @@ then
     echo "Couldn't reach the host"
 elif [[ $ttl -ge 33 && $ttl -le 64 ]]
 then
-        echo Linux
+    echo Linux
 elif [[ $ttl -ge 65 && $ttl -le 128 ]]
 then
     echo Windows
